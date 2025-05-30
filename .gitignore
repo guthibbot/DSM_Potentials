@@ -1,0 +1,4 @@
+# Ignore specific files
+.ipynb_checkpoints
+*.nc
+gurobi.lic

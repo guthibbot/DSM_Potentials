@@ -1,0 +1,7 @@
+Category,max_fraction,tau,flex_share
+hydrolysis,10,72,0.8
+industry,10,4,0.4
+residentialTertiary,10,4,0.1
+sanitaryHeating,10,12,0.5
+spaceHeating,10,4,0.5
+transport,10,24,0.5
